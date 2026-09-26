@@ -3,4 +3,4 @@
 Projeto de análise de vendas e criação de dashboard executivo no Excel.
 
 ## 📸 Visão Geral do Dashboard
-![Dashboard](Captura de tela 2026-09-26 132428.png)
+https://github.com/BE4TRIZ-s/dashboard-vendas-excel/blob/main/Captura%20de%20tela%202026-09-26%20132428.png?raw=true
